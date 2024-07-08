@@ -2,7 +2,7 @@
 
 **`Digital Artisan (Frontend Developer / Content Creator)`**
 
-Here are some ideas to get you started:
+#
 
 ### 🧰 Languages and Tools
 
