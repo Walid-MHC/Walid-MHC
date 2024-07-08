@@ -2,6 +2,7 @@
 
 **`Digital Artisan (Frontend Developer / Content Creator)`**
 
+I am an independent, self-taught web designer, junior front-end developer, and content creator making a lasting impression in the digital world. With a passion for continuous learning, I craft all my projects from the ground up, from ideation and planning through to design and development.
 ---
 
 ### 🧰 Languages and Tools
