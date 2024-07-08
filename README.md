@@ -21,8 +21,6 @@
 
 <a href="http://www.github.com/walid-mhc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=walid-mhc&stroke=ffffff&background=000000&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/walid-mhc"> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /></a>
-
 <a href="https://github.com/walid-mhc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-mhc&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/walid-mhc"><img src="https://github-readme-stats.vercel.app/api?username=walid-mhc&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="walid-mhc's GitHub stats" /></a>
